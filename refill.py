@@ -10,6 +10,7 @@ Needs one secret: BUFFER_API_KEY (from Buffer → Settings → API).
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -19,11 +20,16 @@ QUEUE_TARGET = int(os.environ.get("QUEUE_TARGET", "9"))  # free plan holds 10; l
 VIDEO_BASE = os.environ["VIDEO_BASE_URL"].rstrip("/")  # public web address of social/videos/
 
 
+KEY = os.environ.get("BUFFER_API_KEY", "").strip().strip('"').strip("'")
+if KEY.lower().startswith("bearer "):
+    KEY = KEY[7:].strip()
+
+
 def gql(query, variables=None):
     req = urllib.request.Request(
         API,
         data=json.dumps({"query": query, "variables": variables or {}}).encode(),
-        headers={"Authorization": f"Bearer {os.environ['BUFFER_API_KEY']}",
+        headers={"Authorization": f"Bearer {KEY}",
                  "Content-Type": "application/json"},
     )
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -63,6 +69,13 @@ def send(post, channel_id, mode):
 
 
 def main():
+    if not KEY:
+        sys.exit("The BUFFER_API_KEY box on GitHub is empty. Paste the Buffer key into it.")
+    print(f"Buffer key found: {len(KEY)} characters long.")
+    try:
+        gql("query { account { id } }")
+    except urllib.error.HTTPError as e:
+        sys.exit(f"Buffer rejected the key ({e.code}). Make a new key in Buffer and paste it into the GitHub box again.")
     cfg = json.loads((HERE / "posts.json").read_text())
     posts = [p for p in cfg["posts"] if p.get("ready")]
     log_path = HERE / "posted.json"
