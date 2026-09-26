@@ -226,9 +226,12 @@
     "Peaches booked the quiet trip.",
     "A bingo cruise."
    ],
-   "caption": "What could go wrong. Book four of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #bingo #churchfolks",
+   "caption": "What could go wrong. Book four of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. Music: \"Before the Lights Come On\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #bingo #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Before_the_Lights_Come_On.mp3",
+   "music_start": 85,
+   "version": 2
   },
   {
    "id": "15-blue-palm",
