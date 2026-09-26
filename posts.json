@@ -30,9 +30,12 @@
     "Somebody died on every one.",
     "Rule number one: do not sit in Sister Bernadine's seat."
    ],
-   "caption": "Ruby Jean stopped calling it a coincidence around trip three. All five on Amazon, free in Kindle Unlimited. Who in your church would be the first suspect? #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #churchfolks",
+   "caption": "Ruby Jean stopped calling it a coincidence around trip three. All five on Amazon, free in Kindle Unlimited. Who in your church would be the first suspect? Music: \"Wallpaper in a Good Dress\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Wallpaper_in_a_Good_Dress.mp3",
+   "music_start": 203,
+   "version": 2
   },
   {
    "id": "03-hammer",
@@ -60,9 +63,12 @@
     "A dying man came in to write his own obituary.",
     "He said there was something he had to put in it."
    ],
-   "caption": "Odessa Pruitt writes the obituaries in a small Georgia town. Book one is on Amazon, free in Kindle Unlimited. What would you make sure went in yours? #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
+   "caption": "Odessa Pruitt writes the obituaries in a small Georgia town. Book one is on Amazon, free in Kindle Unlimited. What would you make sure went in yours? Music: \"The Man Behind My Eyes\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "The_Man_Behind_My_Eyes_1.mp3",
+   "music_start": 160,
+   "version": 2
   },
   {
    "id": "05-friends-family",
@@ -74,9 +80,12 @@
     "The gift bag had a pen, a notepad, and a tiny Jesus.",
     "Black in the face. White at the hands and feet."
    ],
-   "caption": "I took notes during service. They caught me. Now I'm the church writer. Book one of The Saints of Greater Promise, free in Kindle Unlimited. What was in YOUR church's visitor bag? #BookTok #BlackBookTok #ChurchFolk #ChristianFiction #BookTokComedy",
+   "caption": "I took notes during service. They caught me. Now I'm the church writer. Book one of The Saints of Greater Promise, free in Kindle Unlimited. What was in YOUR church's visitor bag? Music: \"Good Love Pays Its Way\" by Lenora Vale. #BookTok #BlackBookTok #ChurchFolk #ChristianFiction #BookTokComedy",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Good_Love_Pays_Its_Way.mp3",
+   "music_start": 166,
+   "version": 2
   },
   {
    "id": "06-mother-dear",
@@ -106,8 +115,11 @@
     "The first obituary Odessa Pruitt ever wrote by herself.",
     "A man nobody in town could stand."
    ],
-   "caption": "And what she found in his composition books after he died. About eight thousand words, free, and you are welcome to give it away. Get it at graceandmainpress.com. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
-   "ready": true
+   "caption": "And what she found in his composition books after he died. About eight thousand words, free, and you are welcome to give it away. Get it at graceandmainpress.com. Music: \"I Still Know Every Verse\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
+   "ready": true,
+   "music": "I_Still_Know_Every_Verse_Vocals.mp3",
+   "music_start": 163,
+   "version": 2
   },
   {
    "id": "08-devil-you-know",
@@ -136,9 +148,12 @@
     "Six weeks later, he was dead.",
     "And Odessa had given him her word."
    ],
-   "caption": "Book three of the Odessa Pruitt Mysteries. Start with book one, Survived By a Loving Wife. All free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
+   "caption": "Book three of the Odessa Pruitt Mysteries. Start with book one, Survived By a Loving Wife. All free in Kindle Unlimited. Music: \"Before the Lights Come On\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Before_the_Lights_Come_On.mp3",
+   "music_start": 182,
+   "version": 2
   },
   {
    "id": "10-know-him",
@@ -166,9 +181,12 @@
     "Bellweather had already decided how Hazel Vale died.",
     "Her granddaughter did not believe a word of it."
    ],
-   "caption": "Just in time for spooky season. GRANDMA AND THE BOX, book one of a trilogy, on Amazon, free in Kindle Unlimited. #booktok #blackbooktok #halloweenreads #familysecrets #blackauthors",
+   "caption": "Just in time for spooky season. GRANDMA AND THE BOX, book one of a trilogy, on Amazon, free in Kindle Unlimited. Music: \"I Wouldn't Have Listened\" by Lenora Vale. #booktok #blackbooktok #halloweenreads #familysecrets #blackauthors",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "I_Wouldnt_Have_Listened.mp3",
+   "music_start": 273,
+   "version": 2
   },
   {
    "id": "12-gospel-jubilee",
