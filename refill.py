@@ -42,7 +42,8 @@ def waiting(org_id, channel_id):
 
 
 def send(post, channel_id, mode):
-    url = f"{VIDEO_BASE}/{post['id']}.mp4"
+    v = post.get("version", 1)
+    url = f"{VIDEO_BASE}/{post['id']}.mp4" if v == 1 else f"{VIDEO_BASE}/{post['id']}-v{v}.mp4"
     data = gql("""mutation($input: CreatePostInput!) { createPost(input: $input) {
         __typename
         ... on PostActionSuccess { post { id dueAt } }
