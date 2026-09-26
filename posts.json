@@ -1,0 +1,216 @@
+{
+ "buffer": {
+  "organizationId": "6ab53b00aaaab505b36d95eb",
+  "tiktokChannelId": "6ab5b24eea19ca0bdeddcc21",
+  "schedulingType": "automatic"
+ },
+ "posts": [
+  {
+   "id": "01-written",
+   "cover": "covers/Written.jpg",
+   "title": "Written",
+   "series": "A novel",
+   "lines": [
+    "She had thirty dollars to her name.",
+    "A stranger in the rain asked her to break a ten.",
+    "She said no.",
+    "Hours later, there was a hospital room."
+   ],
+   "caption": "Everything her grandmother tried to tell her about grace comes back around to be settled. WRITTEN, on Amazon, free in Kindle Unlimited. Would you have broken the ten? #booktok #blackbooktok #christianfiction #kindleunlimited #blackauthors",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "02-casino-bus",
+   "cover": "covers/Murder on the Casino Bus.jpg",
+   "title": "Murder on the Casino Bus",
+   "series": "A Ruby Jean Turner Mystery · Book One",
+   "lines": [
+    "Our church travel club has taken five trips.",
+    "Somebody died on every one.",
+    "Rule number one: do not sit in Sister Bernadine's seat."
+   ],
+   "caption": "Ruby Jean stopped calling it a coincidence around trip three. All five on Amazon, free in Kindle Unlimited. Who in your church would be the first suspect? #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #churchfolks",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "03-hammer",
+   "cover": "covers/The Hammer.jpg",
+   "title": "The Hammer",
+   "series": "A novel",
+   "lines": [
+    "He buried his father at ten in the morning.",
+    "At nine that night, he walked out for the title.",
+    "The man who made him was not his father by blood."
+   ],
+   "caption": "He was his father by showing up. THE HAMMER, on Amazon, free in Kindle Unlimited. Tag the man who showed up for you. #booktok #blackbooktok #boxing #fathersandsons #blackauthors",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "04-survived-by",
+   "cover": "covers/Survived By a Loving Wife.jpg",
+   "title": "Survived By a Loving Wife",
+   "series": "An Odessa Pruitt Mystery · Book One",
+   "lines": [
+    "A dying man came in to write his own obituary.",
+    "He said there was something he had to put in it."
+   ],
+   "caption": "Odessa Pruitt writes the obituaries in a small Georgia town. Book one is on Amazon, free in Kindle Unlimited. What would you make sure went in yours? #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "05-friends-family",
+   "cover": "covers/Friends, Family & Foolishness.jpg",
+   "title": "Friends, Family & Foolishness",
+   "series": "The Saints of Greater Promise · Book One",
+   "lines": [
+    "I went to my sister's church for Friends and Family Day.",
+    "The gift bag had a pen, a notepad, and a tiny Jesus.",
+    "Black in the face. White at the hands and feet."
+   ],
+   "caption": "I took notes during service. They caught me. Now I'm the church writer. Book one of The Saints of Greater Promise, free in Kindle Unlimited. What was in YOUR church's visitor bag? #BookTok #BlackBookTok #ChurchFolk #ChristianFiction #BookTokComedy",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "06-mother-dear",
+   "cover": "covers/Mother Dear.jpg",
+   "title": "Mother Dear",
+   "series": "A novel · Book club questions included",
+   "lines": [
+    "The whole block called her Mother Dear.",
+    "Her own children called her Mama.",
+    "For forty-two years, the oldest was proud of the difference."
+   ],
+   "caption": "Every block had one. MOTHER DEAR, on Amazon, free in Kindle Unlimited, with book club questions in the back. Who was the Mother Dear on your street? #booktok #blackbooktok #bookclub #blackfamilies #blackauthors",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "07-free-story",
+   "cover": "covers/Survived By a Loving Wife.jpg",
+   "title": "He Will Be Missed",
+   "series": "A free Odessa Pruitt story",
+   "cta": "Free at graceandmainpress.com",
+   "lines": [
+    "November 1994.",
+    "The first obituary Odessa Pruitt ever wrote by herself.",
+    "A man nobody in town could stand."
+   ],
+   "caption": "And what she found in his composition books after he died. About eight thousand words, free, and you are welcome to give it away. Get it at graceandmainpress.com. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
+   "ready": true
+  },
+  {
+   "id": "08-devil-you-know",
+   "cover": "covers/The Devil You Know.jpg",
+   "title": "The Devil You Know",
+   "series": "A novel",
+   "lines": [
+    "Crystal Carter was fifteen.",
+    "They sent her to live with the woman her family spoke of like a warning.",
+    "Who decided this woman was the devil?"
+   ],
+   "caption": "And what were they covering up when they did? THE DEVIL YOU KNOW, on Amazon, free in Kindle Unlimited. Every family has one name they don't say. #booktok #blackbooktok #familysecrets #southernfiction #blackauthors",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "09-gone-home",
+   "cover": "covers/Gone Home to Rest.jpg",
+   "title": "Gone Home to Rest",
+   "series": "An Odessa Pruitt Mystery · Book Three",
+   "lines": [
+    "A man came in to cancel his own obituary.",
+    "Six weeks later, he was dead.",
+    "And Odessa had given him her word."
+   ],
+   "caption": "Book three of the Odessa Pruitt Mysteries. Start with book one, Survived By a Loving Wife. All free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #southernmystery",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "10-know-him",
+   "cover": "covers/Know Him Yourself.jpg",
+   "title": "Know Him Yourself",
+   "series": "The principles of a godly woman, said plain",
+   "lines": [
+    "I am fifty-four years old.",
+    "I have not figured it out.",
+    "If you came looking for a woman who has, I have been looking too."
+   ],
+   "caption": "But I know eight things, and the first one takes the list away from you. KNOW HIM YOURSELF, on Amazon, free in Kindle Unlimited. What did somebody teach you about being a godly woman that you had to unlearn? #christianbooktok #blackbooktok #godlywoman #blackchristianwomen #faithbooks",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "11-grandma-box",
+   "cover": "covers/Grandma and the Box.jpg",
+   "title": "Grandma and the Box",
+   "series": "Book one of a trilogy",
+   "lines": [
+    "Bellweather had already decided how Hazel Vale died.",
+    "Her granddaughter did not believe a word of it."
+   ],
+   "caption": "Just in time for spooky season. GRANDMA AND THE BOX, book one of a trilogy, on Amazon, free in Kindle Unlimited. #booktok #blackbooktok #halloweenreads #familysecrets #blackauthors",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "12-gospel-jubilee",
+   "cover": "covers/Murder at the Gospel Jubilee.jpg",
+   "title": "Murder at the Gospel Jubilee",
+   "series": "A Ruby Jean Turner Mystery · Book Two",
+   "lines": [
+    "Four choirs.",
+    "One schedule.",
+    "Nobody singing last."
+   ],
+   "caption": "If you have ever sat through a program with four choirs, you already know somebody is getting cut. Ruby Jean Turner book two, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #gospelchoir #churchfolks",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "13-mardi-gras",
+   "cover": "covers/Murder on the Mardi Gras Float.jpg",
+   "title": "Murder on the Mardi Gras Float",
+   "series": "A Ruby Jean Turner Mystery · Book Three",
+   "lines": [
+    "She brought forty-six people to New Orleans.",
+    "By trip three, Ruby Jean had stopped calling it a coincidence."
+   ],
+   "caption": "The Mount Zion travel club goes to Mardi Gras. Book three of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #mardigras #churchfolks",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "14-bingo-cruise",
+   "cover": "covers/Murder on the Bingo Cruise.jpg",
+   "title": "Murder on the Bingo Cruise",
+   "series": "A Ruby Jean Turner Mystery · Book Four",
+   "lines": [
+    "After three trips and three bodies,",
+    "Peaches booked the quiet trip.",
+    "A bingo cruise."
+   ],
+   "caption": "What could go wrong. Book four of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #bingo #churchfolks",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  },
+  {
+   "id": "15-blue-palm",
+   "cover": "covers/Murder at the Blue Palm Hotel.jpg",
+   "title": "Murder at the Blue Palm Hotel",
+   "series": "A Ruby Jean Turner Mystery · Book Five",
+   "lines": [
+    "The woman in the painting had a name.",
+    "Trip five for the Mount Zion travel club."
+   ],
+   "caption": "Book five of the Ruby Jean Turner Mysteries. Start with Murder on the Casino Bus. All five free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
+   "cta": "On Amazon · Free in Kindle Unlimited",
+   "ready": true
+  }
+ ]
+}
