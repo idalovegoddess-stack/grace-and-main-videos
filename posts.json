@@ -30,9 +30,12 @@
     "Somebody died on every one.",
     "Rule number one: do not sit in Sister Bernadine's seat."
    ],
-   "caption": "Ruby Jean stopped calling it a coincidence around trip three. All five on Amazon, free in Kindle Unlimited. Who in your church would be the first suspect? #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #churchfolks",
+   "caption": "Ruby Jean stopped calling it a coincidence around trip three. All five on Amazon, free in Kindle Unlimited. Who in your church would be the first suspect? Music: \"They Don't Come for the Singing\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "They_Dont_Come_For_The_Singing.mp3",
+   "music_start": 98,
+   "version": 3
   },
   {
    "id": "03-hammer",
@@ -182,8 +185,8 @@
    "cta": "On Amazon · Free in Kindle Unlimited",
    "ready": true,
    "music": "I_Wouldnt_Have_Listened.mp3",
-   "music_start": 273,
-   "version": 2
+   "music_start": 148,
+   "version": 3
   },
   {
    "id": "12-gospel-jubilee",
@@ -195,10 +198,12 @@
     "One schedule.",
     "Nobody singing last."
    ],
-   "caption": "If you have ever sat through a program with four choirs, you already know somebody is getting cut. Ruby Jean Turner book two, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #gospelchoir #churchfolks",
+   "caption": "If you have ever sat through a program with four choirs, you already know somebody is getting cut. Ruby Jean Turner book two, free in Kindle Unlimited. Music: \"They Don't Come for the Singing\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #gospelchoir #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": false,
-   "hold": "Waiting on the clean take of They Don't Come for the Singing"
+   "ready": true,
+   "music": "They_Dont_Come_For_The_Singing.mp3",
+   "music_start": 159,
+   "version": 3
   },
   {
    "id": "13-mardi-gras",
@@ -242,10 +247,12 @@
     "The woman in the painting had a name.",
     "Trip five for the Mount Zion travel club."
    ],
-   "caption": "Book five of the Ruby Jean Turner Mysteries. Start with Murder on the Casino Bus. All five free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
+   "caption": "Book five of the Ruby Jean Turner Mysteries. Start with Murder on the Casino Bus. All five free in Kindle Unlimited. Music: \"They Don't Come for the Singing\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": false,
-   "hold": "Waiting on the clean take of They Don't Come for the Singing"
+   "ready": true,
+   "music": "They_Dont_Come_For_The_Singing.mp3",
+   "music_start": 206,
+   "version": 3
   }
  ]
 }
