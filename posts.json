@@ -180,9 +180,12 @@
     "One schedule.",
     "Nobody singing last."
    ],
-   "caption": "If you have ever sat through a program with four choirs, you already know somebody is getting cut. Ruby Jean Turner book two, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #gospelchoir #churchfolks",
+   "caption": "If you have ever sat through a program with four choirs, you already know somebody is getting cut. Ruby Jean Turner book two, free in Kindle Unlimited. Music: \"They Don't Come for the Singing\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #gospelchoir #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "They_Dont_Come_For_The.mp3",
+   "music_start": 397,
+   "version": 2
   },
   {
    "id": "13-mardi-gras",
@@ -193,9 +196,12 @@
     "She brought forty-six people to New Orleans.",
     "By trip three, Ruby Jean had stopped calling it a coincidence."
    ],
-   "caption": "The Mount Zion travel club goes to Mardi Gras. Book three of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #mardigras #churchfolks",
+   "caption": "The Mount Zion travel club goes to Mardi Gras. Book three of the Ruby Jean Turner Mysteries, free in Kindle Unlimited. Music: \"Good Love Pays Its Way\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited #mardigras #churchfolks",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Good_Love_Pays_Its_Way.mp3",
+   "music_start": 225,
+   "version": 2
   },
   {
    "id": "14-bingo-cruise",
@@ -220,9 +226,12 @@
     "The woman in the painting had a name.",
     "Trip five for the Mount Zion travel club."
    ],
-   "caption": "Book five of the Ruby Jean Turner Mysteries. Start with Murder on the Casino Bus. All five free in Kindle Unlimited. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
+   "caption": "Book five of the Ruby Jean Turner Mysteries. Start with Murder on the Casino Bus. All five free in Kindle Unlimited. Music: \"Wallpaper in a Good Dress\" by Lenora Vale. #cozymystery #blackbooktok #booktok #blackauthors #kindleunlimited",
    "cta": "On Amazon · Free in Kindle Unlimited",
-   "ready": true
+   "ready": true,
+   "music": "Wallpaper_in_a_Good_Dress.mp3",
+   "music_start": 247,
+   "version": 2
   }
  ]
 }
