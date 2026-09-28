@@ -59,7 +59,7 @@ def send(post, channel_id, mode):
         "assets": [{"video": {"url": url}}],
         "mode": "addToQueue",
         "schedulingType": mode,
-        "metadata": {"tiktok": {"isAiGenerated": False}},
+        "metadata": {"tiktok": {"isAiGenerated": True}},
         "source": "grace-and-main-refill",
     }})
     res = data["createPost"]
